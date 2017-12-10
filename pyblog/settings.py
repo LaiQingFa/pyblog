@@ -54,7 +54,7 @@ MIDDLEWARE = [
 #指向urls.py
 ROOT_URLCONF = 'pyblog.urls'
 
-#模板配置
+#模板配置 html之类  jinjia2
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
